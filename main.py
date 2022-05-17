@@ -67,21 +67,26 @@ def getChildren(page, check_titles=True):
     link = f"https://en.wikipedia.org/wiki/{page}"
     webpage = bs(session.get(link).text, 'lxml')
     article = webpage.find_all('div', {"class":"mw-parser-output"}, limit=1)
+
     if len(article)==0:
         return []
-    allLinks = [str(link.get('href')) for link in article[0].find_all("a")]
+
     children = set()
-    for link in allLinks:
-        if isValidWikiLink(link):
-            pound_location = link.find('#',6)
-            if check_titles:
-                if pound_location==-1:
-                    real_title = getRealTitle(link[6:])
+
+    useful = article[0].find_all('p')
+    for p_tag in useful:
+        allLinks = [str(link.get('href')) for link in p_tag.find_all("a")]
+        for link in allLinks:
+            if isValidWikiLink(link):
+                pound_location = link.find('#',6)
+                if check_titles:
+                    if pound_location==-1:
+                        real_title = getRealTitle(link[6:])
+                    else:
+                        real_title = getRealTitle(link[6:pound_location])
                 else:
-                    real_title = getRealTitle(link[6:pound_location])
-            else:
-                real_title = link[6:] if pound_location==-1 else link[6:pound_location]
-            children.add(real_title)
+                    real_title = link[6:] if pound_location==-1 else link[6:pound_location]
+                children.add(real_title)
     return children
 
 
@@ -154,8 +159,12 @@ def makeNodes():
 
 
 
+# getJson()
+# makeNodes()
 
-makeNodes()
+# queue = list(original.keys())
+# search(20, False)
+
 # print(urllib.parse.unquote("%C3%B3"))
 
 
