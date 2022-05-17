@@ -1,0 +1,999 @@
+Id,Label,class
+Hammurabi,Hammurabi,0
+Hatshepsut,Hatshepsut,0
+Ramesses_II,Ramesses II,0
+Cyrus_the_Great,Cyrus the Great,0
+Alexander_the_Great,Alexander the Great,0
+Ashoka,Ashoka,0
+Qin_Shi_Huang,Qin Shi Huang,0
+Julius_Caesar,Julius Caesar,0
+Augustus,Augustus,0
+Charlemagne,Charlemagne,0
+Genghis_Khan,Genghis Khan,0
+Mansa_Musa,Mansa Musa,0
+Joan_of_Arc,Joan of Arc,0
+Henry_VIII,Henry VIII,0
+Suleiman_the_Magnificent,Suleiman the Magnificent,0
+Akbar,Akbar,0
+Elizabeth_I,Elizabeth I,0
+Catherine_the_Great,Catherine the Great,0
+George_Washington,George Washington,0
+Napoleon,Napoleon,0
+Sim%C3%B3n_Bol%C3%ADvar,Simón Bolívar,0
+Abraham_Lincoln,Abraham Lincoln,0
+Mahatma_Gandhi,Mahatma Gandhi,0
+Joseph_Stalin,Joseph Stalin,0
+Adolf_Hitler,Adolf Hitler,0
+Mao_Zedong,Mao Zedong,0
+Nelson_Mandela,Nelson Mandela,0
+Abraham,Abraham,0
+Moses,Moses,0
+Gautama_Buddha,Gautama Buddha,0
+Jesus,Jesus,0
+Paul_the_Apostle,Paul the Apostle,0
+Muhammad,Muhammad,0
+Adi_Shankara,Adi Shankara,0
+Martin_Luther,Martin Luther,0
+Marco_Polo,Marco Polo,0
+Zheng_He,Zheng He,0
+Christopher_Columbus,Christopher Columbus,0
+Vasco_da_Gama,Vasco da Gama,0
+Ferdinand_Magellan,Ferdinand Magellan,0
+James_Cook,James Cook,0
+Roald_Amundsen,Roald Amundsen,0
+Confucius,Confucius,0
+Laozi,Laozi,0
+Herodotus,Herodotus,0
+Socrates,Socrates,0
+Plato,Plato,0
+Aristotle,Aristotle,0
+Cicero,Cicero,0
+Thomas_Aquinas,Thomas Aquinas,0
+Ibn_Khaldun,Ibn Khaldun,0
+Niccol%C3%B2_Machiavelli,Niccolò Machiavelli,0
+Ren%C3%A9_Descartes,René Descartes,0
+John_Locke,John Locke,0
+Adam_Smith,Adam Smith,0
+Immanuel_Kant,Immanuel Kant,0
+Mary_Wollstonecraft,Mary Wollstonecraft,0
+Karl_Marx,Karl Marx,0
+Friedrich_Nietzsche,Friedrich Nietzsche,0
+Sigmund_Freud,Sigmund Freud,0
+Homer,Homer,0
+Virgil,Virgil,0
+Li_Bai,Li Bai,0
+Murasaki_Shikibu,Murasaki Shikibu,0
+Rumi,Rumi,0
+Dante_Alighieri,Dante Alighieri,0
+Miguel_de_Cervantes,Miguel de Cervantes,0
+William_Shakespeare,William Shakespeare,0
+Voltaire,Voltaire,0
+Leo_Tolstoy,Leo Tolstoy,0
+Rabindranath_Tagore,Rabindranath Tagore,0
+Leonardo_da_Vinci,Leonardo da Vinci,0
+Michelangelo,Michelangelo,0
+Rembrandt,Rembrandt,0
+Hokusai,Hokusai,0
+Pablo_Picasso,Pablo Picasso,0
+Frida_Kahlo,Frida Kahlo,0
+Johann_Sebastian_Bach,Johann Sebastian Bach,0
+Wolfgang_Amadeus_Mozart,Wolfgang Amadeus Mozart,0
+Ludwig_van_Beethoven,Ludwig van Beethoven,0
+Louis_Armstrong,Louis Armstrong,0
+The_Beatles,The Beatles,0
+Michael_Jackson,Michael Jackson,0
+Hippocrates,Hippocrates,0
+Avicenna,Avicenna,0
+Shen_Kuo,Shen Kuo,0
+Johannes_Gutenberg,Johannes Gutenberg,0
+Nicolaus_Copernicus,Nicolaus Copernicus,0
+Galileo_Galilei,Galileo Galilei,0
+Isaac_Newton,Isaac Newton,0
+Carl_Linnaeus,Carl Linnaeus,0
+Antoine_Lavoisier,Antoine Lavoisier,0
+Michael_Faraday,Michael Faraday,0
+Charles_Darwin,Charles Darwin,0
+Florence_Nightingale,Florence Nightingale,0
+Louis_Pasteur,Louis Pasteur,0
+James_Clerk_Maxwell,James Clerk Maxwell,0
+Dmitri_Mendeleev,Dmitri Mendeleev,0
+Thomas_Edison,Thomas Edison,0
+Nikola_Tesla,Nikola Tesla,0
+Marie_Curie,Marie Curie,0
+Albert_Einstein,Albert Einstein,0
+Archimedes,Archimedes,0
+Euclid,Euclid,0
+Muhammad_ibn_Musa_al-Khwarizmi,Muhammad ibn Musa al-Khwarizmi,0
+Leonhard_Euler,Leonhard Euler,0
+Carl_Friedrich_Gauss,Carl Friedrich Gauss,0
+Emmy_Noether,Emmy Noether,0
+Kurt_G%C3%B6del,Kurt Gödel,0
+Alan_Turing,Alan Turing,0
+Charlie_Chaplin,Charlie Chaplin,0
+Walt_Disney,Walt Disney,0
+Henry_Ford,Henry Ford,0
+History,History,1
+Human_history,Human history,1
+Civilization,Civilization,1
+Archaeology,Archaeology,1
+History_of_Africa,History of Africa,1
+History_of_Asia,History of Asia,1
+History_of_East_Asia,History of East Asia,1
+History_of_India,History of India,1
+History_of_the_Middle_East,History of the Middle East,1
+History_of_Europe,History of Europe,1
+History_of_North_America,History of North America,1
+History_of_Oceania,History of Oceania,1
+History_of_South_America,History of South America,1
+History_of_science,History of science,1
+History_of_art,History of art,1
+History_of_agriculture,History of agriculture,1
+History_of_architecture,History of architecture,1
+History_of_film,History of film,1
+History_of_literature,History of literature,1
+History_of_mathematics,History of mathematics,1
+History_of_medicine,History of medicine,1
+History_of_music,History of music,1
+History_of_technology,History of technology,1
+Military_history,Military history,1
+Prehistory,Prehistory,1
+Stone_Age,Stone Age,1
+Early_human_migrations,Early human migrations,1
+Neolithic_Revolution,Neolithic Revolution,1
+Ancient_history,Ancient history,1
+Bronze_Age,Bronze Age,1
+Ancient_Egypt,Ancient Egypt,1
+Indus_Valley_Civilisation,Indus Valley Civilisation,1
+Mesopotamia,Mesopotamia,1
+Sumer,Sumer,1
+Phoenicia,Phoenicia,1
+Iron_Age,Iron Age,1
+Ancient_Greece,Ancient Greece,1
+Ancient_Rome,Ancient Rome,1
+Achaemenid_Empire,Achaemenid Empire,1
+Gupta_Empire,Gupta Empire,1
+Han_dynasty,Han dynasty,1
+Silk_Road,Silk Road,1
+Pre-Columbian_era,Pre-Columbian era,1
+Andean_civilizations,Andean civilizations,1
+Mesoamerica,Mesoamerica,1
+Maya_civilization,Maya civilization,1
+Post-classical_history,Post-classical history,1
+Aztecs,Aztecs,1
+Inca_Empire,Inca Empire,1
+Islamic_Golden_Age,Islamic Golden Age,1
+Middle_Ages,Middle Ages,1
+Black_Death,Black Death,1
+Byzantine_Empire,Byzantine Empire,1
+Crusades,Crusades,1
+Holy_Roman_Empire,Holy Roman Empire,1
+Viking_Age,Viking Age,1
+Mongol_Empire,Mongol Empire,1
+Ottoman_Empire,Ottoman Empire,1
+Tang_dynasty,Tang dynasty,1
+Early_modern_period,Early modern period,1
+Renaissance,Renaissance,1
+Age_of_Discovery,Age of Discovery,1
+European_colonization_of_the_Americas,European colonization of the Americas,1
+Western_imperialism_in_Asia,Western imperialism in Asia,1
+Spanish_Empire,Spanish Empire,1
+Reformation,Reformation,1
+Mughal_Empire,Mughal Empire,1
+Scientific_Revolution,Scientific Revolution,1
+Age_of_Enlightenment,Age of Enlightenment,1
+Late_modern_period,Late modern period,1
+British_Empire,British Empire,1
+American_Revolution,American Revolution,1
+French_Revolution,French Revolution,1
+Industrial_Revolution,Industrial Revolution,1
+Scramble_for_Africa,Scramble for Africa,1
+World_War_I,World War I,1
+Soviet_Union,Soviet Union,1
+Great_Depression,Great Depression,1
+World_War_II,World War II,1
+Decolonization,Decolonization,1
+Cold_War,Cold War,1
+Green_Revolution,Green Revolution,1
+Information_Age,Information Age,1
+Geography,Geography,2
+Continent,Continent,2
+Africa,Africa,2
+Antarctica,Antarctica,2
+Asia,Asia,2
+Europe,Europe,2
+North_America,North America,2
+South_America,South America,2
+Arctic,Arctic,2
+Caribbean,Caribbean,2
+Middle_East,Middle East,2
+Oceania,Oceania,2
+Land,Land,2
+Desert,Desert,2
+Sahara,Sahara,2
+Forest,Forest,2
+Amazon_rainforest,Amazon rainforest,2
+Grassland,Grassland,2
+Island,Island,2
+Mountain,Mountain,2
+Alps,Alps,2
+Andes,Andes,2
+Himalayas,Himalayas,2
+Rocky_Mountains,Rocky Mountains,2
+Sea,Sea,2
+Arctic_Ocean,Arctic Ocean,2
+Atlantic_Ocean,Atlantic Ocean,2
+Mediterranean_Sea,Mediterranean Sea,2
+Indian_Ocean,Indian Ocean,2
+Pacific_Ocean,Pacific Ocean,2
+Great_Barrier_Reef,Great Barrier Reef,2
+Southern_Ocean,Southern Ocean,2
+Lake,Lake,2
+Caspian_Sea,Caspian Sea,2
+Great_Lakes,Great Lakes,2
+Lake_Victoria,Lake Victoria,2
+River,River,2
+Amazon_River,Amazon River,2
+Ganges,Ganges,2
+Mississippi_River,Mississippi River,2
+Nile,Nile,2
+Yangtze,Yangtze,2
+Glacier,Glacier,2
+Country,Country,2
+Algeria,Algeria,2
+Democratic_Republic_of_the_Congo,Democratic Republic of the Congo,2
+Egypt,Egypt,2
+Ethiopia,Ethiopia,2
+Kenya,Kenya,2
+Nigeria,Nigeria,2
+South_Africa,South Africa,2
+Tanzania,Tanzania,2
+Bangladesh,Bangladesh,2
+China,China,2
+India,India,2
+Indonesia,Indonesia,2
+Iran,Iran,2
+Israel,Israel,2
+Japan,Japan,2
+Malaysia,Malaysia,2
+Myanmar,Myanmar,2
+Pakistan,Pakistan,2
+Philippines,Philippines,2
+Saudi_Arabia,Saudi Arabia,2
+South_Korea,South Korea,2
+Taiwan,Taiwan,2
+Thailand,Thailand,2
+United_Arab_Emirates,United Arab Emirates,2
+Vietnam,Vietnam,2
+Russia,Russia,2
+Turkey,Turkey,2
+France,France,2
+Germany,Germany,2
+Italy,Italy,2
+Netherlands,Netherlands,2
+Poland,Poland,2
+Spain,Spain,2
+Ukraine,Ukraine,2
+United_Kingdom,United Kingdom,2
+Canada,Canada,2
+Mexico,Mexico,2
+United_States,United States,2
+Australia,Australia,2
+Argentina,Argentina,2
+Brazil,Brazil,2
+Colombia,Colombia,2
+City,City,2
+Cairo,Cairo,2
+Lagos,Lagos,2
+Beijing,Beijing,2
+Hong_Kong,Hong Kong,2
+Tokyo,Tokyo,2
+Jakarta,Jakarta,2
+Singapore,Singapore,2
+Delhi,Delhi,2
+Mumbai,Mumbai,2
+Istanbul,Istanbul,2
+Jerusalem,Jerusalem,2
+Mecca,Mecca,2
+London,London,2
+Moscow,Moscow,2
+Paris,Paris,2
+Rome,Rome,2
+Mexico_City,Mexico City,2
+New_York_City,New York City,2
+S%C3%A3o_Paulo,São Paulo,2
+The_arts,The arts,3
+Art,Art,3
+Prehistoric_art,Prehistoric art,3
+Fashion,Fashion,3
+Museum,Museum,3
+Abstract_art,Abstract art,3
+Modernism,Modernism,3
+Realism_(arts),Realism (arts),3
+Romanticism,Romanticism,3
+Architecture,Architecture,3
+Great_Pyramid_of_Giza,Great Pyramid of Giza,3
+Great_Wall_of_China,Great Wall of China,3
+Literature,Literature,3
+English_literature,English literature,3
+Fiction,Fiction,3
+Novel,Novel,3
+Short_story,Short story,3
+Fairy_tale,Fairy tale,3
+Poetry,Poetry,3
+Epic_poetry,Epic poetry,3
+Music,Music,3
+Musical_instrument,Musical instrument,3
+Piano,Piano,3
+Singing,Singing,3
+Classical_music,Classical music,3
+Folk_music,Folk music,3
+Jazz,Jazz,3
+Pop_music,Pop music,3
+Rock_music,Rock music,3
+Performing_arts,Performing arts,3
+Dance,Dance,3
+Opera,Opera,3
+Orchestra,Orchestra,3
+Theatre,Theatre,3
+Visual_arts,Visual arts,3
+Film,Film,3
+Animation,Animation,3
+Calligraphy,Calligraphy,3
+Comics,Comics,3
+Design,Design,3
+Drawing,Drawing,3
+Painting,Painting,3
+Photography,Photography,3
+Pottery,Pottery,3
+Sculpture,Sculpture,3
+Philosophy,Philosophy,4
+Philosophy_of_science,Philosophy of science,4
+Aesthetics,Aesthetics,4
+Epistemology,Epistemology,4
+Knowledge,Knowledge,4
+Belief,Belief,4
+Reason,Reason,4
+Truth,Truth,4
+Ethics,Ethics,4
+Good_and_evil,Good and evil,4
+Logic,Logic,4
+Metaphysics,Metaphysics,4
+Free_will,Free will,4
+Ontology,Ontology,4
+Eastern_philosophy,Eastern philosophy,4
+Confucianism,Confucianism,4
+Western_philosophy,Western philosophy,4
+Myth,Myth,4
+Greek_mythology,Greek mythology,4
+Religion,Religion,4
+Afterlife,Afterlife,4
+Deity,Deity,4
+God,God,4
+Meditation,Meditation,4
+New_religious_movement,New religious movement,4
+Prayer,Prayer,4
+Ritual,Ritual,4
+Shamanism,Shamanism,4
+Soul,Soul,4
+Spirituality,Spirituality,4
+Secularism,Secularism,4
+Atheism,Atheism,4
+Christianity,Christianity,4
+Bible,Bible,4
+Catholic_Church,Catholic Church,4
+Eastern_Orthodox_Church,Eastern Orthodox Church,4
+Protestantism,Protestantism,4
+Islam,Islam,4
+Shia_Islam,Shia Islam,4
+Sunni_Islam,Sunni Islam,4
+Quran,Quran,4
+Judaism,Judaism,4
+Talmud,Talmud,4
+Chinese_folk_religion,Chinese folk religion,4
+Shinto,Shinto,4
+Taoism,Taoism,4
+Buddhism,Buddhism,4
+Mahayana,Mahayana,4
+Theravada,Theravada,4
+Hinduism,Hinduism,4
+Vedas,Vedas,4
+Bhagavad_Gita,Bhagavad Gita,4
+Jainism,Jainism,4
+Sikhism,Sikhism,4
+Traditional_African_religions,Traditional African religions,4
+Clothing,Clothing,5
+Home,Home,5
+Furniture,Furniture,5
+Jewellery,Jewellery,5
+Ethnic_group,Ethnic group,5
+Family,Family,5
+Adult,Adult,5
+Adolescence,Adolescence,5
+Child,Child,5
+Infant,Infant,5
+Marriage,Marriage,5
+Old_age,Old age,5
+Parenting,Parenting,5
+Friendship,Friendship,5
+Human_sexuality,Human sexuality,5
+Sexual_intercourse,Sexual intercourse,5
+Sexual_orientation,Sexual orientation,5
+Gender,Gender,5
+Man,Man,5
+Woman,Woman,5
+Cooking,Cooking,5
+Food,Food,5
+Bread,Bread,5
+Cereal,Cereal,5
+Wheat,Wheat,5
+Maize,Maize,5
+Rice,Rice,5
+Cheese,Cheese,5
+Fruit,Fruit,5
+Meat,Meat,5
+Salt,Salt,5
+Spice,Spice,5
+Sugar,Sugar,5
+Vegetable,Vegetable,5
+Potato,Potato,5
+Soybean,Soybean,5
+Drink,Drink,5
+Alcoholic_drink,Alcoholic drink,5
+Coffee,Coffee,5
+Drinking_water,Drinking water,5
+Milk,Milk,5
+Tea,Tea,5
+Entertainment,Entertainment,5
+Play_(activity),Play (activity),5
+Game,Game,5
+Board_game,Board game,5
+Card_game,Card game,5
+Gambling,Gambling,5
+Video_game,Video game,5
+Sport,Sport,5
+Association_football,Association football,5
+Sport_of_athletics,Sport of athletics,5
+Olympic_Games,Olympic Games,5
+Toy,Toy,5
+Martial_arts,Martial arts,5
+Swimming,Swimming,5
+Tourism,Tourism,5
+Culture,Culture,6
+Folklore,Folklore,6
+Festival,Festival,6
+Oral_tradition,Oral tradition,6
+Popular_culture,Popular culture,6
+Society,Society,6
+Community,Community,6
+Power_(social_and_political),Power (social and political),6
+Social_class,Social class,6
+Communication,Communication,6
+Social_science,Social science,6
+Anthropology,Anthropology,6
+Sociology,Sociology,6
+Politics,Politics,6
+Political_party,Political party,6
+Political_science,Political science,6
+Colonialism,Colonialism,6
+Imperialism,Imperialism,6
+Government,Government,6
+Democracy,Democracy,6
+Dictatorship,Dictatorship,6
+Monarchy,Monarchy,6
+Ideology,Ideology,6
+Anarchism,Anarchism,6
+Capitalism,Capitalism,6
+Communism,Communism,6
+Conservatism,Conservatism,6
+Fascism,Fascism,6
+Liberalism,Liberalism,6
+Nationalism,Nationalism,6
+Socialism,Socialism,6
+State_(polity),State (polity),6
+Diplomacy,Diplomacy,6
+Military,Military,6
+European_Union,European Union,6
+International_Red_Cross_and_Red_Crescent_Movement,International Red Cross and Red Crescent Movement,6
+NATO,NATO,6
+United_Nations,United Nations,6
+War,War,6
+Genocide,Genocide,6
+Peace,Peace,6
+Terrorism,Terrorism,6
+Education,Education,6
+School,School,6
+Library,Library,6
+University,University,6
+Business,Business,6
+Corporation,Corporation,6
+Management,Management,6
+Marketing,Marketing,6
+Retail,Retail,6
+Trade_union,Trade union,6
+Economics,Economics,6
+Trade,Trade,6
+Supply_and_demand,Supply and demand,6
+Employment,Employment,6
+Finance,Finance,6
+Bank,Bank,6
+Money,Money,6
+Insurance,Insurance,6
+Tax,Tax,6
+Economy,Economy,6
+Agriculture,Agriculture,6
+Manufacturing,Manufacturing,6
+Construction,Construction,6
+Fishing,Fishing,6
+Hunting,Hunting,6
+Mining,Mining,6
+Abortion,Abortion,6
+Disability,Disability,6
+Discrimination,Discrimination,6
+Racism,Racism,6
+Sexism,Sexism,6
+Environmentalism,Environmentalism,6
+Pollution,Pollution,6
+Famine,Famine,6
+Feminism,Feminism,6
+Women%27s_suffrage,Women's suffrage,6
+Globalization,Globalization,6
+Human_migration,Human migration,6
+Human_rights,Human rights,6
+Liberty,Liberty,6
+Privacy,Privacy,6
+Slavery,Slavery,6
+Social_equality,Social equality,6
+Indigenous_peoples,Indigenous peoples,6
+Poverty,Poverty,6
+Violence,Violence,6
+Welfare,Welfare,6
+Law,Law,6
+Crime,Crime,6
+Constitution,Constitution,6
+Justice,Justice,6
+Police,Police,6
+Property,Property,6
+Psychology,Psychology,6
+Emotion,Emotion,6
+Anger,Anger,6
+Fear,Fear,6
+Happiness,Happiness,6
+Humour,Humour,6
+Love,Love,6
+Mind,Mind,6
+Consciousness,Consciousness,6
+Dream,Dream,6
+Memory,Memory,6
+Thought,Thought,6
+Human_behavior,Human behavior,6
+Intelligence,Intelligence,6
+Learning,Learning,6
+Personality,Personality,6
+Language,Language,6
+Indo-European_languages,Indo-European languages,6
+Bengali_language,Bengali language,6
+English_language,English language,6
+French_language,French language,6
+German_language,German language,6
+Greek_language,Greek language,6
+Hindustani_language,Hindustani language,6
+Latin,Latin,6
+Portuguese_language,Portuguese language,6
+Russian_language,Russian language,6
+Spanish_language,Spanish language,6
+Arabic,Arabic,6
+Chinese_language,Chinese language,6
+Japanese_language,Japanese language,6
+Malay_language,Malay language,6
+Swahili_language,Swahili language,6
+Linguistics,Linguistics,6
+Grammar,Grammar,6
+Word,Word,6
+Personal_name,Personal name,6
+Speech,Speech,6
+Writing,Writing,6
+Alphabet,Alphabet,6
+Arabic_alphabet,Arabic alphabet,6
+Brahmic_scripts,Brahmic scripts,6
+Cyrillic_script,Cyrillic script,6
+Greek_alphabet,Greek alphabet,6
+Latin_script,Latin script,6
+Arabic_numerals,Arabic numerals,6
+Chinese_characters,Chinese characters,6
+Mass_media,Mass media,6
+Broadcasting,Broadcasting,6
+News,News,6
+Publishing,Publishing,6
+Disease,Disease,7
+Allergy,Allergy,7
+Asthma,Asthma,7
+Cancer,Cancer,7
+Cardiovascular_disease,Cardiovascular disease,7
+Stroke,Stroke,7
+Diabetes,Diabetes,7
+Gastroenteritis,Gastroenteritis,7
+Infection,Infection,7
+Common_cold,Common cold,7
+Influenza,Influenza,7
+Malaria,Malaria,7
+Pneumonia,Pneumonia,7
+Sexually_transmitted_infection,Sexually transmitted infection,7
+HIV/AIDS,HIV/AIDS,7
+Smallpox,Smallpox,7
+Tuberculosis,Tuberculosis,7
+Mental_disorder,Mental disorder,7
+Injury,Injury,7
+Medicine,Medicine,7
+Dentistry,Dentistry,7
+Hospital,Hospital,7
+Nursing,Nursing,7
+Surgery,Surgery,7
+Ageing,Ageing,7
+Exercise,Exercise,7
+Health,Health,7
+Mental_health,Mental health,7
+Hygiene,Hygiene,7
+Sanitation,Sanitation,7
+Nutrition,Nutrition,7
+Obesity,Obesity,7
+Drug,Drug,7
+Medication,Medication,7
+Anesthesia,Anesthesia,7
+Antibiotic,Antibiotic,7
+Birth_control,Birth control,7
+Vaccine,Vaccine,7
+Addiction,Addiction,7
+Alcoholism,Alcoholism,7
+Smoking,Smoking,7
+Science,Science,8
+Scientific_method,Scientific method,8
+Measurement,Measurement,8
+International_System_of_Units,International System of Units,8
+Nature,Nature,8
+Astronomy,Astronomy,8
+Universe,Universe,8
+Solar_System,Solar System,8
+Sun,Sun,8
+Mercury_(planet),Mercury (planet),8
+Venus,Venus,8
+Earth,Earth,8
+Moon,Moon,8
+Mars,Mars,8
+Jupiter,Jupiter,8
+Saturn,Saturn,8
+Uranus,Uranus,8
+Neptune,Neptune,8
+Asteroid,Asteroid,8
+Big_Bang,Big Bang,8
+Black_hole,Black hole,8
+Comet,Comet,8
+Galaxy,Galaxy,8
+Milky_Way,Milky Way,8
+Natural_satellite,Natural satellite,8
+Orbit,Orbit,8
+Outer_space,Outer space,8
+Physical_cosmology,Physical cosmology,8
+Planet,Planet,8
+Star,Star,8
+Supernova,Supernova,8
+Physics,Physics,8
+Energy,Energy,8
+Time,Time,8
+Day,Day,8
+Year,Year,8
+Classical_mechanics,Classical mechanics,8
+Mass,Mass,8
+Momentum,Momentum,8
+Motion,Motion,8
+Newton%27s_laws_of_motion,Newton's laws of motion,8
+Force,Force,8
+Electromagnetism,Electromagnetism,8
+Gravity,Gravity,8
+Strong_interaction,Strong interaction,8
+Weak_interaction,Weak interaction,8
+Magnetism,Magnetism,8
+Matter,Matter,8
+State_of_matter,State of matter,8
+Atom,Atom,8
+Particle_physics,Particle physics,8
+Standard_Model,Standard Model,8
+Subatomic_particle,Subatomic particle,8
+Electron,Electron,8
+Neutron,Neutron,8
+Photon,Photon,8
+Proton,Proton,8
+Quantum_mechanics,Quantum mechanics,8
+Radioactive_decay,Radioactive decay,8
+Space,Space,8
+Vacuum,Vacuum,8
+Thermodynamics,Thermodynamics,8
+Heat,Heat,8
+Temperature,Temperature,8
+Theory_of_relativity,Theory of relativity,8
+Speed_of_light,Speed of light,8
+Wave,Wave,8
+Electromagnetic_radiation,Electromagnetic radiation,8
+Light,Light,8
+Color,Color,8
+Optics,Optics,8
+Sound,Sound,8
+Biology,Biology,8
+Life,Life,8
+Cell_(biology),Cell (biology),8
+Death,Death,8
+Suicide,Suicide,8
+Abiogenesis,Abiogenesis,8
+Evolution,Evolution,8
+Human_evolution,Human evolution,8
+Natural_selection,Natural selection,8
+Organism,Organism,8
+Archaea,Archaea,8
+Bacteria,Bacteria,8
+Eukaryote,Eukaryote,8
+Animal,Animal,8
+Zoology,Zoology,8
+Amphibian,Amphibian,8
+Arthropod,Arthropod,8
+Crustacean,Crustacean,8
+Insect,Insect,8
+Bird,Bird,8
+Chicken,Chicken,8
+Fish,Fish,8
+Mammal,Mammal,8
+Cat,Cat,8
+Cattle,Cattle,8
+Dog,Dog,8
+Horse,Horse,8
+Pig,Pig,8
+Primate,Primate,8
+Human,Human,8
+Rodent,Rodent,8
+Sheep,Sheep,8
+Mollusca,Mollusca,8
+Reptile,Reptile,8
+Dinosaur,Dinosaur,8
+Plant,Plant,8
+Algae,Algae,8
+Botany,Botany,8
+Flower,Flower,8
+Seed,Seed,8
+Tree,Tree,8
+Fungus,Fungus,8
+Virus,Virus,8
+Anatomy,Anatomy,8
+Human_body,Human body,8
+Circulatory_system,Circulatory system,8
+Blood,Blood,8
+Heart,Heart,8
+Lung,Lung,8
+Digestion,Digestion,8
+Liver,Liver,8
+Immune_system,Immune system,8
+Skeletal_muscle,Skeletal muscle,8
+Nervous_system,Nervous system,8
+Brain,Brain,8
+Ear,Ear,8
+Eye,Eye,8
+Sense,Sense,8
+Skeleton,Skeleton,8
+Bone,Bone,8
+Skin,Skin,8
+Ecology,Ecology,8
+Biodiversity,Biodiversity,8
+Ecosystem,Ecosystem,8
+Extinction,Extinction,8
+Genetics,Genetics,8
+DNA,DNA,8
+Gene,Gene,8
+Heredity,Heredity,8
+RNA,RNA,8
+Metabolism,Metabolism,8
+Molecular_biology,Molecular biology,8
+Hormone,Hormone,8
+Protein,Protein,8
+Paleontology,Paleontology,8
+Photosynthesis,Photosynthesis,8
+Reproduction,Reproduction,8
+Sex,Sex,8
+Pregnancy,Pregnancy,8
+Sleep,Sleep,8
+Taxonomy_(biology),Taxonomy (biology),8
+Species,Species,8
+Chemistry,Chemistry,8
+Biochemistry,Biochemistry,8
+Inorganic_chemistry,Inorganic chemistry,8
+Organic_chemistry,Organic chemistry,8
+Physical_chemistry,Physical chemistry,8
+Chemical_element,Chemical element,8
+Periodic_table,Periodic table,8
+Aluminium,Aluminium,8
+Carbon,Carbon,8
+Copper,Copper,8
+Gold,Gold,8
+Hydrogen,Hydrogen,8
+Iron,Iron,8
+Nitrogen,Nitrogen,8
+Oxygen,Oxygen,8
+Phosphorus,Phosphorus,8
+Silicon,Silicon,8
+Silver,Silver,8
+Sulfur,Sulfur,8
+Chemical_compound,Chemical compound,8
+Water,Water,8
+Carbon_dioxide,Carbon dioxide,8
+Chemical_bond,Chemical bond,8
+Molecule,Molecule,8
+Chemical_reaction,Chemical reaction,8
+Acid%E2%80%93base_reaction,Acid–base reaction,8
+Catalysis,Catalysis,8
+Redox,Redox,8
+Metal,Metal,8
+Alloy,Alloy,8
+Bronze,Bronze,8
+Steel,Steel,8
+Earth_science,Earth science,8
+History_of_Earth,History of Earth,8
+Atmosphere_of_Earth,Atmosphere of Earth,8
+Structure_of_Earth,Structure of Earth,8
+Season,Season,8
+Flood,Flood,8
+Climate,Climate,8
+Climate_change,Climate change,8
+Weather,Weather,8
+Cloud,Cloud,8
+Rain,Rain,8
+Snow,Snow,8
+Tornado,Tornado,8
+Tropical_cyclone,Tropical cyclone,8
+Wind,Wind,8
+Geology,Geology,8
+Earthquake,Earthquake,8
+Erosion,Erosion,8
+Mineral,Mineral,8
+Plate_tectonics,Plate tectonics,8
+Rock_(geology),Rock (geology),8
+Soil,Soil,8
+Volcano,Volcano,8
+Technology,Technology,9
+Engineering,Engineering,9
+Civil_engineering,Civil engineering,9
+Mechanical_engineering,Mechanical engineering,9
+Electricity,Electricity,9
+Electric_battery,Electric battery,9
+Fire,Fire,9
+Explosive,Explosive,9
+Gunpowder,Gunpowder,9
+Fossil_fuel,Fossil fuel,9
+Coal,Coal,9
+Natural_gas,Natural gas,9
+Petroleum,Petroleum,9
+Nuclear_power,Nuclear power,9
+Renewable_energy,Renewable energy,9
+Hydropower,Hydropower,9
+Solar_energy,Solar energy,9
+Wind_power,Wind power,9
+Animal_husbandry,Animal husbandry,9
+Domestication,Domestication,9
+Biotechnology,Biotechnology,9
+Genetic_engineering,Genetic engineering,9
+Fertilizer,Fertilizer,9
+Food_preservation,Food preservation,9
+Garden,Garden,9
+Medical_imaging,Medical imaging,9
+Refrigeration,Refrigeration,9
+Stove,Stove,9
+Weapon,Weapon,9
+Armour,Armour,9
+Bow_and_arrow,Bow and arrow,9
+Firearm,Firearm,9
+Knife,Knife,9
+Nuclear_weapon,Nuclear weapon,9
+Tool,Tool,9
+Simple_machine,Simple machine,9
+Wheel,Wheel,9
+Engine,Engine,9
+Electric_motor,Electric motor,9
+Internal_combustion_engine,Internal combustion engine,9
+Jet_engine,Jet engine,9
+Steam_engine,Steam engine,9
+Robotics,Robotics,9
+Printing,Printing,9
+Book,Book,9
+Mail,Mail,9
+Telecommunications,Telecommunications,9
+Internet,Internet,9
+Radio,Radio,9
+Telephone,Telephone,9
+Mobile_phone,Mobile phone,9
+Video,Video,9
+Television,Television,9
+Computer_science,Computer science,9
+Computer,Computer,9
+Artificial_intelligence,Artificial intelligence,9
+Cryptography,Cryptography,9
+Electronics,Electronics,9
+Electric_light,Electric light,9
+Integrated_circuit,Integrated circuit,9
+Semiconductor_device,Semiconductor device,9
+Rocket,Rocket,9
+Satellite,Satellite,9
+Space_exploration,Space exploration,9
+Spaceflight,Spaceflight,9
+Space_station,Space station,9
+Transport,Transport,9
+Aircraft,Aircraft,9
+Bicycle,Bicycle,9
+Car,Car,9
+Rail_transport,Rail transport,9
+Ship,Ship,9
+Navigation,Navigation,9
+Compass,Compass,9
+Map,Map,9
+Radar,Radar,9
+Calendar,Calendar,9
+Clock,Clock,9
+Fortification,Fortification,9
+Infrastructure,Infrastructure,9
+Bridge,Bridge,9
+Canal,Canal,9
+Dam,Dam,9
+Road,Road,9
+Concrete,Concrete,9
+Glass,Glass,9
+Masonry,Masonry,9
+Metallurgy,Metallurgy,9
+Natural_rubber,Natural rubber,9
+Paper,Paper,9
+Plastic,Plastic,9
+Textile,Textile,9
+Wood,Wood,9
+Camera,Camera,9
+Laser,Laser,9
+Lens,Lens,9
+Microscope,Microscope,9
+Telescope,Telescope,9
+Mathematics,Mathematics,10
+Algorithm,Algorithm,10
+Mathematical_proof,Mathematical proof,10
+Set_(mathematics),Set (mathematics),10
+Function_(mathematics),Function (mathematics),10
+Combinatorics,Combinatorics,10
+Number,Number,10
+Real_number,Real number,10
+E_(mathematical_constant),E (mathematical constant),10
+Pi,Pi,10
+Fraction,Fraction,10
+Integer,Integer,10
+0,0,10
+Natural_number,Natural number,10
+Prime_number,Prime number,10
+Complex_number,Complex number,10
+Number_theory,Number theory,10
+Algebra,Algebra,10
+Equation,Equation,10
+Variable_(mathematics),Variable (mathematics),10
+Linear_algebra,Linear algebra,10
+Abstract_algebra,Abstract algebra,10
+Mathematical_analysis,Mathematical analysis,10
+Calculus,Calculus,10
+Infinity,Infinity,10
+Limit_(mathematics),Limit (mathematics),10
+Series_(mathematics),Series (mathematics),10
+Arithmetic,Arithmetic,10
+Exponentiation,Exponentiation,10
+Logarithm,Logarithm,10
+Nth_root,Nth root,10
+Geometry,Geometry,10
+Angle,Angle,10
+Trigonometry,Trigonometry,10
+Area,Area,10
+Conic_section,Conic section,10
+Circle,Circle,10
+Line_(geometry),Line (geometry),10
+Polygon,Polygon,10
+Triangle,Triangle,10
+Three-dimensional_space,Three-dimensional space,10
+Volume,Volume,10
+Topology,Topology,10
+Probability,Probability,10
+Statistics,Statistics,10
